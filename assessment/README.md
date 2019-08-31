@@ -4,4 +4,4 @@ Code compiling:
 >.\mvnw.cmd clean
 
 Code running:
-java -jar target\assessment-0.0.1-SNAPSHOT.jar
+>.\java -jar target\assessment-0.0.1-SNAPSHOT.jar
